@@ -17,7 +17,7 @@ The greatest decrease in profits (date and amount) over the entire period
 
 Your analysis should align with the following results:
 
-Financial Analysis
+##Financial Analysis
 ----------------------------
 Total Months: 86
 Total: $22564198
@@ -42,7 +42,7 @@ The winner of the election based on popular vote
 
 Your analysis should align with the following results:
 
-Election Results
+##Election Results
 -------------------------
 Total Votes: 369711
 -------------------------
